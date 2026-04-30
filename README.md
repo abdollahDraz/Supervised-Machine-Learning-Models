@@ -113,7 +113,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn joblib
 
 ## 👨‍💻 Author
 
-**Mohamed**
+**Abdollah  Mohamed**
 Computer Engineering Student
 Passionate about Machine Learning & Data Science
 
